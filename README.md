@@ -12,3 +12,6 @@ This repository serves as a compilation of notebooks covering a range of topics,
 - Description: Records screen and apply OCR in real time to get data.
 - File: `OCR Web Scrapper.ipynb`
 
+# Contribution
+
+Contributions and suggestions are welcome! If you want to add new notebooks or improve existing ones, feel free to submit a pull request.
